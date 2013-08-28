@@ -19,4 +19,6 @@
 database.yml
 
 
+.DS_Store
+
 SampleApp::Application.config.secret_key_base = '08137a81cd7861d58b4c35d4bd35a61431d5b682d6ca7db89153949821dcbae34124a848e6251666cf9209594d3375fd1fd82fbec594ed6a779e4a3df3865f7f'
